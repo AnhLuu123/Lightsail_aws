@@ -81,7 +81,7 @@ The Lightsail Container Service allows users to run containerized applications i
 Amazon Lightsail supports the following container services:
 - Amazon Lightsail Container Service - Amazon Lightsail Container Service is a managed container service that allows you to run containerized applications on Amazon Lightsail. You can use Lightsail Container Service to deploy your containerized applications on Lightsail virtual private servers (instances) and manage them using Lightsail resources such as load balancers, DNS zones, and static IPs.
 !(/home/vmo/Pictures/container_lightsail.png)
-#### Deploy a containerized application on Lightsail
+
 
 ### using amazone lightsail with other aws services
 - Virtual Private Cloud (VPC) - You can connect your Lightsail VPC to your Amazon VPC using VPC peering. This allows you to connect your Lightsail resources to other AWS services that are available in your Amazon VPC.
@@ -89,8 +89,7 @@ Amazon Lightsail supports the following container services:
 - Serverless computing 
 - Databases - You can connect your Lightsail VPC to your Amazon VPC using VPC peering. This allows you to connect your Lightsail resources to other AWS services that are available in your Amazon VPC: Amazon DynamoDB, Amazon RDS, Amazon Aurora
 - Load balancers - You can connect your Lightsail VPC to your Amazon VPC using VPC peering. This allows you to connect your Lightsail resources to other AWS services that are available in your Amazon VPC: Elastic Load Balancing, Application Load Balancer, Network Load Balancer, Classic Load Balancer
-- Amazon S3 - You can connect your Lightsail VPC to your Amazon VPC using VPC peering. This allows you to connect your Lightsail resources to other AWS services that are available in your Amazon VPC: Amazon S3
-- ...
+- Amazon S3 - You can connect your Lightsail VPC to your Amazon VPC using VPC peering. This allows you to connect your Lightsail resources to other AWS services that are available in your Amazon VPC: Amazon S3 
 
 
 
